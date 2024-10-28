@@ -128,7 +128,7 @@ export default function App() {
 
   return (
     <div className="app" style={{ backgroundImage: `url(${background})` }}>
-      <h1>Tic Tac Toe</h1>
+      <h1>Tic Tac TGIF</h1>
       <div className="mode-toggle">
         <label>
           <input
